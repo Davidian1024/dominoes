@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <component name="Dominoes" extends="Scene"> 
 	<children>
-      <Label id="myLabel" 
+      <Label id="Title" 
       	text="Dominoes"
       	width="1280" 
       	height="720" 
@@ -18,13 +18,13 @@
 
   function init()
     m.top.setFocus(true)
-    m.myLabel = m.top.findNode("myLabel")
+    m.Title = m.top.findNode("Title")
     
     'Set the font size
-    m.myLabel.font.size=92
+    m.Title.font.size=92
 
     'Set the color to light blue
-    m.myLabel.color="0x72D7EEFF"
+    m.Title.color="0x72D7EEFF"
 
     '**
     '** The full list of editable attributes can be located at:

@@ -1,8 +1,3 @@
-'*************************************************************
-'** Dominoes 
-'** Affero GPL v3
-'*************************************************************
-
 sub Main()
     print "in showChannelSGScreen"
     'Indicate this is a Roku SceneGraph application'
