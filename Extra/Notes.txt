@@ -1,0 +1,12 @@
+Game Variants
+ #1 Mexican Train - https://en.wikipedia.org/wiki/Mexican_Train
+
+Total number of tiles in a set where "n" is the highest numbered spotted end of a tile in the domino set = ((n+1)(n+2)/2)
+
+Western Double-Square Domino Specifications
+Set Type         # of Tiles  # of Spots
+Double-Sixes             28         168
+Double-Nines             55         495
+Double-Twelves           91       1,092
+Double-Fifteens         136       2,040
+Double-Eighteens        190       3,420
